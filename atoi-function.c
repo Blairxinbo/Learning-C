@@ -1,3 +1,5 @@
+/*converting hexadecimal digits into integers*/
+
 #include <stdio.h>
 
 int htoi(char s[]);
